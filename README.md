@@ -124,7 +124,7 @@ Prototype agent designed to monitor crop growth, predict yield, and assist in br
 
 ## 🌐 Connect with Me
 - 📧 Email: alidigitalmedia.outreach@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/sheezakhan](https://linkedin.com/in/sheezaali)  
+- 🔗 LinkedIn: (https://linkedin.com/in/sheezaali)  
 - 🧬 GitHub: [github.com/sheeza-bioai](https://github.com/sheeza-bioai)  
 
 ---
